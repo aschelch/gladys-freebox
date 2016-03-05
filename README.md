@@ -15,6 +15,9 @@ $ cd freebox
 # Install NPM dependencies
 $ npm install
 
+# Set your remote code in the file
+$ nano config/freebox.js
+
 # Restart Gladys
 $ sudo pm2 restart gladys
 ```
