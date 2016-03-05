@@ -1,6 +1,8 @@
 ##Features
 Control your Freebox using Gladys
 
+![Screenshot](/screenshot.png?raw=true)
+
 ##Installation
 ```bash
 # Go to the hooks directory
