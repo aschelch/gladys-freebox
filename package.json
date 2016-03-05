@@ -1,0 +1,13 @@
+{
+  "name": "Gladys-Freebox",
+  "version": "1.0.0",
+  "description": "Control your Freebox with Gladys",
+  "keywords": ["freebox", "gladys"],
+  "dependencies": {
+    "sails-util-mvcsloader": "^0.3.0",
+    "querystring": "0.2.0",
+    "request": "2.69.0"
+  },
+  "author": "Aurélien Schelcher",
+  "license": "Creative Commons 3.0 France"
+}
